@@ -31,3 +31,15 @@ Text cannot be used directly in ML,so it is covered into numerical vectors based
 -Python
 -Pandas
 -Scikit-learn
+---
+## ⚠️ Limitations
+- Small dataset
+- No train/test split
+- Accuracy is not realistic
+
+---
+
+## 🔮 Future Improvements
+- Use real dataset
+- Add train/test split
+- Improve preprocessing
